@@ -6,6 +6,6 @@
       int main(){
         int n;
         cin >> n;
-          cout <<  n <<"hello,world" <<endl;
+          cout <<  n <<"hello,world" <<endl//endl 换行;
           return 0;
       }
